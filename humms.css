@@ -21,6 +21,9 @@
     height: 156px;
   }
   
+.list{
+    text-alignment: left ;
+    }
   
    body{
     background-image:url(bg2.jpg);
